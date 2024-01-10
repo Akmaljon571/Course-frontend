@@ -3,7 +3,7 @@ import './main.scss'
 function Main() {
     return (
         <main> 
-           Main
+           Main 2
         </main>
     )
 }
