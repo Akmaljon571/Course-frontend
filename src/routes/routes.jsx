@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 
-function Routers () {
+function Routers() {
     return (
         <Routes>
             {/* <Route path='/' element={} /> */}
@@ -10,3 +10,5 @@ function Routers () {
         </Routes>
     )
 }
+
+export default Routers
